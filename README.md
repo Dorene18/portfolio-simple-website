@@ -14,6 +14,6 @@ Clean layout with consistent styling
 
 Simple contact page for user interaction
 
-you can view my portfolio by visiting [link] free to explore the contact and home page.
+you can view my portfolio by visiting  {https://dorene18.github.io/portfolio-simple-website/}  free to explore the contact and home page.
 
 THANK YOU FOR VISITING MY SIMPLE PORTFOLIO.
